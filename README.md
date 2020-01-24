@@ -10,8 +10,13 @@ You can upgrade your UFO weopon during the game ("More kills gives more upgrades
 This game is made by Nodejs/Javascript/Socket.io/HTML5, No library is used for visuals
 It was made in 2015 as an indie game for competing in .io genre (This was my first .io game inspired by other huge ,io games in that time)
 
-## More games like this:
+## More of my games like this:
 #http://pury.space
+#http://ufowars.space
+#http://sperms.space
+#http://kalamebaz.space
+#http://cyberbugs.space
+#http://aliens.website
 
 ## How to run:
 Install nodejs
