@@ -12,11 +12,11 @@ It was made in 2015 as an indie game for competing in .io genre (This was my fir
 
 ## More of my games like this:
 #http://pury.space
-#http://ufowars.space
-#http://sperms.space
-#http://kalamebaz.space
-#http://cyberbugs.space
-#http://aliens.website
+#https://lastwar.herokuapp.com/
+#https://sperms.herokuapp.com/
+#https://kalamebazspace.herokuapp.com/
+#https://antclone.herokuapp.com/
+#https://ufowarspace.herokuapp.com/
 
 ## How to run:
 Install nodejs
