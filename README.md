@@ -11,12 +11,7 @@ This game is made by Nodejs/Javascript/Socket.io/HTML5, No library is used for v
 It was made in 2015 as an indie game for competing in .io genre (This was my first .io game inspired by other huge ,io games in that time)
 
 ## More of my games like this:
-#http://pury.space
-#https://lastwar.herokuapp.com/
-#https://sperms.herokuapp.com/
-#https://kalamebazspace.herokuapp.com/
-#https://antclone.herokuapp.com/
-#https://ufowarspace.herokuapp.com/
+https://github.com/Devlogerio?tab=repositories
 
 ## How to run:
 Install nodejs
