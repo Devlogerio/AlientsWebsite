@@ -1,7 +1,4 @@
-//var mongojs = require("mongojs");
-//var db = mongojs('localhost:27017/myGame', ['account','progress']);
-//var mongojs = require("mongojs");
-//var db = null;//mongojs('localhost:27017/myGame', ['account','progress']);
+// Made by Cena Abachi Known as Devlogerio, find me on Youtube, instagram and Github: Devlogeiro LinkedIn: Cena Abachi
 
 var express = require('express');
 var app = express();
