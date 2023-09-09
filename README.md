@@ -1,4 +1,4 @@
-# Aliens.website
+# Alien Wars
 A multiplayer .io online game made by Html5 Javascript Nndejs and socket.io (no game engine is used).
 Alient pilots fighting together on earth!
 
