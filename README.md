@@ -1,3 +1,5 @@
+Play now: https://alienswar-196abaa07cee.herokuapp.com/
+
 # Alien Wars
 A multiplayer .io online game made by HTML5 Javascript Nndejs and socket.io (no game engine is used).
 Alient pilots fighting together on Earth!
